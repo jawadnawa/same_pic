@@ -1,10 +1,8 @@
 # samepic
 
-A new Flutter project.
+The main idea is that when the left and right images match, a point is calculated.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
+## May help you
 
 A few resources to get you started if this is your first Flutter project:
 
